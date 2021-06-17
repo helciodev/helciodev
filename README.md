@@ -11,4 +11,5 @@
 
 
 -->
-![Profile views](https://gpvc.arturio.dev/helciodev)
+![Visitor Count](https://profile-counter.glitch.me/{helciodev}/count.svg)
+
