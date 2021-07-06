@@ -5,7 +5,7 @@
   <img align='right' src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=helciodev&layout=compact&theme=tokyonight" />
 </a>
 
- ### I am a dev from Angola who loves the frontend part of web development. Feel free to browse through my projects and don't forget to give it a star if you like it.
+ ### I am a dev from Angola who loves the frontend part of web development. Feel free to browse through my projects and to give them a star if you like them.
 <!--
 **helciodev/helciodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
