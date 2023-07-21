@@ -6,10 +6,9 @@ Web Developer and football fan
 
 I am a web developer that loves to create beautiful, effective products with enjoyable user experiences. I am a curious, engaged, hard-working person and passionate about engineering and technology. Fluent in multiple languages, frameworks, and technologies.
 
-* 🌍  I'm based in Luanda the capital city of Angola
+
 * 🖥️  See my portfolio at [helciodev](http://helciodev.netlify.app/)
 * ✉️  You can contact me at [helcioandre@live.com](mailto:helcioandre@live.com)
-* 🧠  I'm learning Typescript
 * ⚡  I can do a back-flip
 
 ### Skills
